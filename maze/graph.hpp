@@ -9,7 +9,7 @@ class Graph{
 
     class edge{
     public:
-        double weight;
+        bool wall;
     };
 
 
